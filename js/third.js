@@ -1,3 +1,4 @@
+const prefix = "https://ju-nmd2022.github.io/wuid-adventure-game-uwfews/";
 const characterHandle = document.querySelector("#BBQ-man");
 
 document.querySelector(".fire-bag").addEventListener("click", function () {

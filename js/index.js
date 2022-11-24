@@ -1,7 +1,8 @@
+const prefix = "https://ju-nmd2022.github.io/wuid-adventure-game-uwfews/";
 const levelHandle = document.querySelector("#next-level");
 
 levelHandle.addEventListener("click", function () {
-  window.location.replace("../second.html");
+  window.location.replace(prefix + "/second.html");
 });
 
 document.querySelector(".crate-1").addEventListener("click", function () {
