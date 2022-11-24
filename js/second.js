@@ -26,11 +26,3 @@ document.querySelector(".stake").addEventListener("click", function () {
   document.querySelector(".stake-bag").style.display = "block";
   document.querySelector(".next-level").style.display = "block";
 });
-
-// document.querySelector(".crate-3").addEventListener("click", function () {
-//   document.querySelector(".crate-3").style.display = "none";
-//   document.querySelector(".shot-3").style.display = "block";
-// });
-// document.querySelector(".shot-3").addEventListener("click", function () {
-//   document.querySelector(".shot-3").style.display = "none";
-// });
